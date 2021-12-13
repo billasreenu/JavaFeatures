@@ -1,5 +1,6 @@
+# Java 8 New Features
 1. Functional interface ( Lambda expression )
-2. Interfaces cab have default and static menthods
+2. Interfaces can have default and static menthods
 3. Method and constructor references
 4. Stream API
 5. Date Time API
