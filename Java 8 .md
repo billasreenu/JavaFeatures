@@ -15,6 +15,7 @@
 8. Parallel array sorting
 9. Completable Future
     - https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html
+    - https://www.callicoder.com/java-8-completablefuture-tutorial/
 11. Optional class
     - https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
     
