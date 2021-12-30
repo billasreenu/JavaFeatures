@@ -26,3 +26,8 @@
 12. Type Inference
 13. Type annotations
 14. Repeating annotations
+
+### Other changes
+- Meta space has been introduced
+>  https://stackoverflow.com/questions/27131165/what-is-the-difference-between-permgen-and-metaspace
+>  https://www.geeksforgeeks.org/metaspace-in-java-8-with-examples/
